@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 	
-	printf("Hello world!\n");
+	printf("ne Hello world!\n");
 	system("pause");
 	return 0;
 }
